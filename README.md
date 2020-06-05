@@ -1,4 +1,4 @@
-Call bowing_2D.py with the full name of the output data file (sample.csv)
+Call bowing_2D.py with the full name of the output data file (sample.csv) For testing purposes, use Temperature = 20 and humidity = 10 when prompted. 
 
 This code is meant to be used for the ATLAS Inner Tracker (ITk) detector upgrade, performing a quality control check on the bow of the sensors that will be put into the experiment. 
 
